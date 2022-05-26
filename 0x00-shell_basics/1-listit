@@ -1,2 +1,2 @@
 #!/bin/bash
-write a comment 
+0-current_working_directory -listit README.md 
