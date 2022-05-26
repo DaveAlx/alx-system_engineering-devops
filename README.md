@@ -1,2 +1,2 @@
 #!/bin/bash 
-wrie your code here
+write your code there
